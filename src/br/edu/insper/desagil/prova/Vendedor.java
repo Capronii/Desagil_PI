@@ -6,6 +6,7 @@ import java.util.List;
 public class Vendedor extends Usuario {
 	private List<Produto> produtos;
 		
+	
 	public Vendedor (String nome) {
 		super(nome);
 		this.produtos=new ArrayList<>();

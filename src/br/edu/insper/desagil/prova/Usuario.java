@@ -15,6 +15,7 @@ public class Usuario {
 		
 	}
 	
+	
 	public String getNome() {
 		return this.nome;
 	}
